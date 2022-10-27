@@ -1,0 +1,26 @@
+.btn-iniciar{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 8px;
+
+    position: absolute;
+    width: 317px;
+    height: 105px;
+    left: 562px;
+    top: 394px;
+
+    background: #0A3871;
+    border-radius: 24px;
+    justify-content: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+
+
+    }
